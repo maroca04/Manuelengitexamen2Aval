@@ -1,22 +1,18 @@
 #!/bin/bash
 
+read -p "Dime el titulo del libro a ingresar" $titulo
 
-#PREGUNTAR A VICENT
+read -p "Dime el ano del libro a ingresar" $ano
 
+echo "Generos: novela/poesia/terror"
 
-read -p "Dime el titulo del libro a ingresar" titulo
+read -p "Genero: " $genero
 
-read -p "Dime el año del libro a ingresar" anno
+read -p "Editorial: "$Editorial
 
-if [[ "$anno" =~ ^[0-9]+$ ]]
+datos="$titulo $ano $genero $editorial"
 
- then
-    echo "Error: El año debe ser un número entero."
-    exit
+echo $datos >> bdlibros.txt
 
-$generos = ciencia, terror, infantil.
-
-echo "¿que genero quieres?"
-read genero
-
+cat bdlibros.txt
 
