@@ -1,0 +1,19 @@
+Nombre del juego fácil: ¿Cuál es el nombre del juego con dificultad "Fácil"?
+
+Precio alto: ¿Cuál es el juego más caro de la lista?
+
+Creador de VR Quest: ¿Quién creó el juego "VR Quest"?
+
+Duración media: ¿Cuál es la duración promedio de los juegos en la lista?
+
+Motor gráfico común: ¿Cuántos juegos en la lista utilizan el motor gráfico "Unity"?
+
+Dificultad y precio: ¿Cuál es el juego más difícil y cuánto cuesta?
+
+Juego de corta duración: ¿Cuál es el juego con la duración más corta?
+
+Creador de Epic Battle Simulator: ¿Quién es el creador del juego "Epic Battle Simulator"?
+
+Motor gráfico de Racing Velocity: ¿Qué motor gráfico utiliza el juego "Racing Velocity"?
+
+Objetivo del juego de Galactic Explorer: ¿Cuál es el objetivo del juego "Galactic Explorer"?

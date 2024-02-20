@@ -1,0 +1,12 @@
+Equipo               PJ  G  E  P  GF  GC  Pts
+
+Real Madrid          23  18 4  1  48  33  58
+Girona               23  17 5  1  52  27  56
+Barcelona            23  15 5  3  47  17  50
+Atletico de Madrid   23  15 3  5  45  25  48
+Athletic Club        23  13 6  4  42  21  45
+Real Sociedad        23  9  10 4  32  21  37
+Valencia             23  10 5  8  29  27  35
+Real Betis           23  8  11 4  26  25  35
+Las Palmas           23  9  5  9  23  20  32
+Getafe               23  7  9  7  29  31  30

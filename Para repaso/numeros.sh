@@ -5,7 +5,7 @@
 
 
 # para pedir que ingrese un numero 
-read -p "Por favor, ingresa un numero : " numero
+read -p "Por favor, ingresa un numero :" numero
 
 # comprobar que ese numero sea mayor que 0
 if [ $numero -lt 0 ]; then

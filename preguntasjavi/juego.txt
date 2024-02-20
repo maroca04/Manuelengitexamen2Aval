@@ -1,0 +1,8 @@
+Nombre                  Dificultad  Objetivo del Juego                  Duración  Precio   Quien lo Creó        Motor Gráfico
+Super Aventura          Fácil        Rescatar a la princesa              2 horas   $19.99  Game Studios XYZ    Unity
+Epic Battle Simulator   Moderada     Derrotar ejércitos enemigos         4 horas   $29.99  Game Masters Inc.   Unreal Engine
+Mystery Puzzle          Difícil      Resolver misterios                  6 horas   $39.99  Puzzle Creations    CryEngine
+Galactic Explorer       Moderada     Explorar el espacio                 10 horas  $49.99  Space Games Co.     Unity
+Fantasy Quest           Difícil      Completar la misión épica           8 horas   $59.99  Adventure Studios   Frostbite
+Racing Velocity         Fácil        Ganar carreras                      1 hora    $24.99  Speedster Games     Unreal Engine
+VR Quest                Difícil      Superar desafíos en realidad virtual  5 horas $79.99  VR Innovations      Unity
